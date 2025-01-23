@@ -67,7 +67,7 @@ GET http://localhost:5000/weather/İstanbul
 The response will return only the temperature in Celsius:
 ```bash
 {
-    "temperature": 15.0
+    "15.0"
 }
 ```
 
